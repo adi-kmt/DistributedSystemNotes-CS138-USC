@@ -138,6 +138,7 @@ Computers have two types of clock, time-of-day clocks and monotonic clocks.
 
 There is a general principle in timekeeping: the more accurately you need to measure time, the harder that task becomes.
 If you now try to get two or more computers to agree on what the time is, then the difficulty is only compounded.
+Can look up Cloudfare's [leap second bug]([url](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns)) on why not to use Time-of-day Clock.
 
 ### Monotonic clocks
 
